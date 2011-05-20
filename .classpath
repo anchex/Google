@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-client-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-contacts-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-contacts-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="deps/google-collect-1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="deps/jsr305.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.apt.core_3.3.0.v20070607-1200.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
